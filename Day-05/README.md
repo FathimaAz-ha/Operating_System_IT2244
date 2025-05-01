@@ -1,4 +1,4 @@
-# Linux Commands - Retirieve Details
+# Linux Commands - Retrieve Details
 
 1. `cal` - displays the current month calander and highlight the date.
 2. `date +%d` - display the date
