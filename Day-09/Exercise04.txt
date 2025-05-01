@@ -1,0 +1,19 @@
+Q1)Print multiplication table using for loop.
+1 X 2 = 2
+2 X 2 = 4
+
+Q2)
+     *
+    ***
+   *****
+  *******
+ *********
+  *******
+   *****
+    ***
+     *
+
+Q3)sum of the first 10 fibbonacci series
+
+Q4)sum of prime numbers from 1 to 100
+
