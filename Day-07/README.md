@@ -1,6 +1,6 @@
 # Loops and Pattern Printing in Linux Shell Scripts
 
-## 🔂 for Loop in Bash
+## 🔂 for Loop, while loop in Bash
 
 ### 🔸 Basic Syntax
 ```bash
