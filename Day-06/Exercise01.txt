@@ -1,0 +1,38 @@
+1) Get the calendar and date
+
+2) Get the student name and marks for the 3 subjects from user and then calculate the total and the average
+Output: Enter the name:  Pavani
+		Enter the mark for subject1 : 80
+		Enter the mark for subject2 : 90
+		Enter the mark for subject3 : 70
+		Total =240
+		Average = 80
+		
+3) Create calculator with arithmetic operators
+Output: 
+	Enter the first number:  4
+	Enter the second number:  2
+	Summation: 6
+	Subtraction:  2
+	Division: 2
+	Multiplication: 8
+	
+4) Get the days based on the user input number
+Output: 
+	Enter the number: 5
+	Friday
+	
+5) Verify whether your username is correct or not.(Use your name as a input)
+Output: Enter user name:
+		Mino
+		User name is correct.
+		
+6)Output: Enter two numbers:
+7 5
+7 is greater than 5
+
+Output:  Enter two numbers:
+1 9
+1 is less than 9
+
+7) Create a simple calculator using "expr" command same as the question 3
