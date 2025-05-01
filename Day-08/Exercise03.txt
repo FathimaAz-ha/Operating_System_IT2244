@@ -1,0 +1,13 @@
+Q1 - fibbonacci series
+output : First 10 Fibbonacci numbers:
+0 1 1 2 3 5 8 13 21 34
+
+Q2 - Factorial
+output : Factorial of 5 is : 120
+
+Q3 - Multiples of 3 between 1 and 50
+3
+6
+...
+48
+
