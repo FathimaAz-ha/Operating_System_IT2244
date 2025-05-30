@@ -1,0 +1,5 @@
+awk -F, 'NR==1 || $4 > 3.5' data1.csv
+
+awk -F, 'NR>1 {sum+=$4; count++} END {if (count > 0) print "Average GPA", sum/count}' data1.csv
+
+#as I am using babun awk is not support. So I use gawk instead of awk
