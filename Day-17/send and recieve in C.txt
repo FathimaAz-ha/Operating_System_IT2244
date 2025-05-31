@@ -1,0 +1,6 @@
+Create a file called progfilex and give the permission access 644 
+then change the code in receive and send files 
+so it will be private for you and it retrieves the data
+
+
+you can change the send.c file name and key instead of progfile

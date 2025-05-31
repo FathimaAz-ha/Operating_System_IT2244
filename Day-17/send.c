@@ -13,7 +13,7 @@ int main(){
 	int msgid;
 	//fork to generate unique key
 	key_t key;
-	key = ftok("progfile", 65);
+	key = ftok("progfile48", 48);
 	//msgget reates a message queue and returns identifier
 	
 	msgid = msgget(key, 0666 | IPC_CREAT);
