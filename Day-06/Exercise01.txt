@@ -1,7 +1,7 @@
 1) Get the calendar and date
 
 2) Get the student name and marks for the 3 subjects from user and then calculate the total and the average
-Output: Enter the name:  Pavani
+Output: Enter the name:  Azha
 		Enter the mark for subject1 : 80
 		Enter the mark for subject2 : 90
 		Enter the mark for subject3 : 70
