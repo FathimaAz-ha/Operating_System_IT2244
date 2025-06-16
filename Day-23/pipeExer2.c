@@ -109,21 +109,3 @@ int main() {
 
     return 0;
 }
-[2021ict48@fedora ~]$ vi exerP2.c
-[2021ict48@fedora ~]$ gcc exerP2.c -o exerP2
-[2021ict48@fedora ~]$ ./exerP2
-Enter your choice (C, T, S, R): C
-Enter radius: 14
-Calculated area: 615.75
-[2021ict48@fedora ~]$ ./exerP2
-Enter your choice (C, T, S, R): T
-Enter base and height: 12 8
-Calculated area: 48.00
-[2021ict48@fedora ~]$ ./exerP2
-Enter your choice (C, T, S, R): S
-Enter side length: 5
-Calculated area: 25.00
-[2021ict48@fedora ~]$ ./exerP2
-Enter your choice (C, T, S, R): R
-Enter length and width: 4 6
-Calculated area: 24.00
